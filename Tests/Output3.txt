@@ -1,0 +1,28 @@
+FCFS:
+T4	0	1
+T3	1	2
+T2	2	3
+T1	3	4
+Average Waiting Time: 0
+
+RR:
+T4	0	1
+T3	1	2
+T2	2	3
+T1	3	4
+Average Waiting Time: 0
+
+NSJF:
+T4	0	1
+T3	1	2
+T2	2	3
+T1	3	4
+Average Waiting Time: 0
+
+PSJF:
+T4	0	1
+T3	1	2
+T2	2	3
+T1	3	4
+Average Waiting Time: 0
+
